@@ -1,12 +1,12 @@
 ## BYPASSING PSN LOGIN/ACTIVATE ON PSVITA (3.70)!! - 2019
 [ ! ] NOTE :
-> These trick can be used to fullfil the requirements to install the exploit chain Trinity on https://github.com/TheOfficialFloW/Trinity/blob/master/README.md. **It's works on 3.70 firmware. I don't know the trick will works if in the future there will be a new PSVita hack with higher version of firmware need to access PlayStation Store, and I don't know the trick will be works to bypass another problem caused by System Update. But, you can try this trick.**
+> These tutorial can be used to fullfil the requirements to install the exploit chain Trinity on https://github.com/TheOfficialFloW/Trinity/blob/master/README.md. **It's works on 3.70 firmware. I don't know the tutorial below will works if in the future there will be a new PSVita hack with higher version of firmware need to access PlayStation Store, and I don't know this will be works to bypass another problem caused by System Update. But, you can try to follow the tutorial.**
 
 ### Bypassing Process
 ![image](https://www.handheldplayers.com/wp-content/uploads/2019/07/ps-vita-system-update-3.71-201907232.jpg)
 PSVita on firmware 3.70 now is exploited! you can read at link above. But, for some people that has PSVita on 3.70 firmware, unfortunately can't fullfil the `Requirement` step because they can't access the PlayStation Store that says 'You must update the system software'.
 As we know, on link above written `'Your device must be able to access the PlayStation Store.'`
-Here is the simple trick:
+Here is the simple tutorial:
 ```
 1. Go to Settings.
 2. Go to Network > Wi-Fi Settings.
@@ -28,6 +28,6 @@ But, if you want to download anything on PlayStation Store, you must do this ste
 8. Enjoy Download!
 ```
 
-Thats the simple trick, and I hope this trick really help you to solve that problem.
+Thats the simple tutorial, and I hope this really help you to solve that problem.
 
-Credit: **author**
+Credit: **redspr**
